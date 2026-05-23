@@ -1,0 +1,6 @@
+{
+  "name": "AsepMo",
+  "description": "Story and content application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
